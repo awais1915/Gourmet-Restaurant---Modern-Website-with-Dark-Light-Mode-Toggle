@@ -1,0 +1,2 @@
+# Gourmet-Restaurant---Modern-Website-with-Dark-Light-Mode-Toggle
+A fully responsive restaurant website featuring: ✨ Dark/light theme toggle (persistent via sessions/localStorage) 📅 Interactive reservation system with database integration 🍝 Filterable menu with animated UI elements 📱 Mobile-first responsive design ⚡ Optimized performance with lazy loading  Technologies: HTML5, CSS3, JavaScript, PHP, MySQL
